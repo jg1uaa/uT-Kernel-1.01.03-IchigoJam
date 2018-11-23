@@ -27,7 +27,7 @@
 /* Boot message */
 #define BOOT_MESSAGE \
 	"\n" \
-	"micro T-Kernel Version 1.01.01\n" \
+	"micro T-Kernel Version 1.01.03\n" \
 	"\n\0"
 
 /*
